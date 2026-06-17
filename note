@@ -1,0 +1,5 @@
+tp_ia/
+├── code_famille.json   ← Service 1
+├── chunks.json         ← Service 2  
+├── chunks_clean.json   ← Service 3 (chunks nettoyés)
+└── embeddings.npy      ← Service 3 (vecteurs, chargés par le Service 4)
